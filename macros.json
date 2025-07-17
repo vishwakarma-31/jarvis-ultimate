@@ -1,0 +1,6 @@
+{
+  "macros": [
+    { "trigger": "start coding mode", "actions": ["open vs code", "open chrome"] },
+    { "trigger": "focus mode", "actions": ["mute volume", "adjust brightness down"] }
+  ]
+}

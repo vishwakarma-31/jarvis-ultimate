@@ -1,0 +1,9 @@
+speechrecognition
+pyaudio
+pyttsx3
+cryptography
+tk
+pyautogui
+ollama
+psutil
+keyboard
